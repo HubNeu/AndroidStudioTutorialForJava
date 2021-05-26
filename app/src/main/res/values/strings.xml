@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zgadywanka</string>
+    <string name="wpiszHaslo">Wpisz hasło do zgadnięcia:</string>
+    <string name="wpiszHasloHint">Wpisz hasło</string>
+    <string name="wpiszNickHint">Wpisz nick</string>
+    <string name="najlepszeWyniki">Najlepsze wyniki</string>
+    <string name="jeszczeRaz">Jeszcze raz!</string>
+</resources>
